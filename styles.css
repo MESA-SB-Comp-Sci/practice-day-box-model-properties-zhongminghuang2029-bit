@@ -4,3 +4,12 @@
 
 /* write rules below */
 
+padded{
+    padding: 20px;
+}
+
+spaced{
+    margin: 20px;
+}
+
+has-border
